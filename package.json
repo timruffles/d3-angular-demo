@@ -1,0 +1,22 @@
+{
+  "name": "d3-angular-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.3.9",
+    "d3": "^3.5.3",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "browserify": "^8.1.1",
+    "grunt": "^0.4.5",
+    "node-static": "^0.7.6",
+    "watchify": "^2.2.1"
+  }
+}
